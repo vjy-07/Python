@@ -7,3 +7,6 @@ tup1 = (1,)
 print(type(tup1))
 
 print(tup[2:5])
+
+for num in tup:
+    print(num)
