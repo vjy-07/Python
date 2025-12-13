@@ -7,3 +7,5 @@ except ValueError:
     print("Invalid Input")
 else:
     print(f"ans = {ans}")
+finally:
+    print("end of program")
