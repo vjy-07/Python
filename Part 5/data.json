@@ -1,9 +1,5 @@
 {
-    "name": "Vijay",
-    "course": "Python",
-    "address": {
-        "city": "Delhi",
-        "country": "India"
-    },
-    "subjects": ["Math","Physics"]
+    "age": 5,
+    "isStudent": true,
+    "name": "Vijay"
 }
